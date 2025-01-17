@@ -1,0 +1,271 @@
+# depslib dependency file v1.0
+1716118266 source:c:\c++\hf\hazi_feladat_codeblocks\hf\csaladi.cpp
+	"csaladi.h"
+
+1716118622 c:\c++\hf\hazi_feladat_codeblocks\hf\csaladi.h
+	"memtrace.h"
+	"film.h"
+
+1716118622 c:\c++\hf\hazi_feladat_codeblocks\hf\film.h
+	<fstream>
+	"memtrace.h"
+	"string.h"
+
+1716117672 c:\c++\hf\hazi_feladat_codeblocks\hf\string.h
+	<iostream>
+	<cstring>
+	"memtrace.h"
+
+1711129366 c:\c++\hf\hazi_feladat_codeblocks\hf\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1715809244 source:c:\c++\hf\hazi_feladat_codeblocks\hf\dokumentum.cpp
+	"dokumentum.h"
+
+1716118734 c:\c++\hf\hazi_feladat_codeblocks\hf\dokumentum.h
+	"memtrace.h"
+	"film.h"
+
+1715448898 source:c:\c++\hf\hazi_feladat_codeblocks\hf\film.cpp
+	"film.h"
+
+1716124345 source:c:\c++\hf\hazi_feladat_codeblocks\hf\filmtar.cpp
+	"filmtar.h"
+
+1716119412 c:\c++\hf\hazi_feladat_codeblocks\hf\filmtar.h
+	"memtrace.h"
+	"film.h"
+	"csaladi.h"
+	"dokumentum.h"
+
+1711129366 source:c:\c++\hf\hazi_feladat_codeblocks\hf\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1715879298 source:c:\c++\hf\hazi_feladat_codeblocks\hf\string.cpp
+	<iostream>
+	<cstring>
+	"memtrace.h"
+	"string.h"
+
+1716124398 source:c:\c++\hf\hazi_feladat_codeblocks\hf\main.cpp
+	<sstream>
+	"memtrace.h"
+	"gtest_lite.h"
+	"filmtar.h"
+
+1711129366 c:\c++\hf\hazi_feladat_codeblocks\hf\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iterator>
+	<regex>
+	"memtrace.h"
+
+1715809340 source:d:\prog\hf\hazi_feladat_codeblocks\hf\csaladi.cpp
+	"csaladi.h"
+
+1715879220 d:\prog\hf\hazi_feladat_codeblocks\hf\csaladi.h
+	"film.h"
+
+1715878976 d:\prog\hf\hazi_feladat_codeblocks\hf\film.h
+	<fstream>
+	"string.h"
+
+1716067104 d:\prog\hf\hazi_feladat_codeblocks\hf\string.h
+	<iostream>
+	<cstring>
+	"memtrace.h"
+
+1711129366 d:\prog\hf\hazi_feladat_codeblocks\hf\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1715809244 source:d:\prog\hf\hazi_feladat_codeblocks\hf\dokumentum.cpp
+	"dokumentum.h"
+
+1715879218 d:\prog\hf\hazi_feladat_codeblocks\hf\dokumentum.h
+	"film.h"
+
+1715448898 source:d:\prog\hf\hazi_feladat_codeblocks\hf\film.cpp
+	"film.h"
+
+1716065404 source:d:\prog\hf\hazi_feladat_codeblocks\hf\filmtar.cpp
+	"filmtar.h"
+
+1716065522 d:\prog\hf\hazi_feladat_codeblocks\hf\filmtar.h
+	"memtrace.h"
+	"film.h"
+	"csaladi.h"
+	"dokumentum.h"
+
+1711129366 source:d:\prog\hf\hazi_feladat_codeblocks\hf\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1715879298 source:d:\prog\hf\hazi_feladat_codeblocks\hf\string.cpp
+	<iostream>
+	<cstring>
+	"memtrace.h"
+	"string.h"
+
+1716068092 source:d:\prog\hf\hazi_feladat_codeblocks\hf\main.cpp
+	<sstream>
+	"memtrace.h"
+	"gtest_lite.h"
+	"filmtar.h"
+
+1711129366 d:\prog\hf\hazi_feladat_codeblocks\hf\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iterator>
+	<regex>
+	"memtrace.h"
+
+1716114666 source:c:\it\c++\hf\hazi_feladat_codeblocks\hf\csaladi.cpp
+	"csaladi.h"
+
+1716115022 c:\it\c++\hf\hazi_feladat_codeblocks\hf\csaladi.h
+	"memtrace.h"
+	"film.h"
+
+1711125766 c:\it\c++\hf\hazi_feladat_codeblocks\hf\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1716115022 c:\it\c++\hf\hazi_feladat_codeblocks\hf\film.h
+	<fstream>
+	"memtrace.h"
+	"string.h"
+
+1716114072 c:\it\c++\hf\hazi_feladat_codeblocks\hf\string.h
+	<iostream>
+	<cstring>
+	"memtrace.h"
+
+1715805644 source:c:\it\c++\hf\hazi_feladat_codeblocks\hf\dokumentum.cpp
+	"dokumentum.h"
+
+1716115134 c:\it\c++\hf\hazi_feladat_codeblocks\hf\dokumentum.h
+	"memtrace.h"
+	"film.h"
+
+1715445298 source:c:\it\c++\hf\hazi_feladat_codeblocks\hf\film.cpp
+	"film.h"
+
+1716120745 source:c:\it\c++\hf\hazi_feladat_codeblocks\hf\filmtar.cpp
+	"filmtar.h"
+
+1716115812 c:\it\c++\hf\hazi_feladat_codeblocks\hf\filmtar.h
+	"memtrace.h"
+	"film.h"
+	"csaladi.h"
+	"dokumentum.h"
+
+1716120798 source:c:\it\c++\hf\hazi_feladat_codeblocks\hf\main.cpp
+	<sstream>
+	"memtrace.h"
+	"gtest_lite.h"
+	"filmtar.h"
+
+1711125766 c:\it\c++\hf\hazi_feladat_codeblocks\hf\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iterator>
+	<regex>
+	"memtrace.h"
+
+1711125766 source:c:\it\c++\hf\hazi_feladat_codeblocks\hf\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1715875698 source:c:\it\c++\hf\hazi_feladat_codeblocks\hf\string.cpp
+	<iostream>
+	<cstring>
+	"memtrace.h"
+	"string.h"
+
